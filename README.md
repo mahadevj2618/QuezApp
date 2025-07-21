@@ -32,7 +32,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/QuezApp.git
+git clone https://github.com/mahadevj2618/QuezApp.git
 
 # Navigate into the project
 cd QuezApp
